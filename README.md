@@ -1,4 +1,4 @@
-# orkut
+# SnapBin
 
 A new Flutter project.
 
